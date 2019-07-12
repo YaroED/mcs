@@ -2,7 +2,8 @@
 A note for the development of wechat mini-program
 
 ### pre-development preparation 
-https://mp.weixin.qq.com
+[微信公众号平台](https://mp.weixin.qq.com)
+[微信小程序开发官方文档](https://developers.weixin.qq.com/doc/)
 
 import和require的区别
 node编程中最重要的思想就是模块化，import和require都是被模块化所使用。
